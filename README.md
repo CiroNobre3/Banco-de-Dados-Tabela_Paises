@@ -41,7 +41,7 @@ Utilize a função count para saber quantas regiões (estados) existem na China,
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/fdc30774-8906-422a-8a20-f39e56506e21)
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/7dfc1853-6b61-464f-9c0a-4ed0d12fe20a)
 
 
 <h2>5ª Questão</h2>
