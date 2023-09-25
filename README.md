@@ -52,7 +52,7 @@ Quais regiões, diferentes, existem no Canadá?
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/8f722dfd-5e01-4437-9ed2-40bf6ebd6496)
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/24a02c58-a6b4-4dca-a3eb-72850e388f7a)
 
 
 <h2>6ª Questão</h2>
