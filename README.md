@@ -118,4 +118,5 @@ Ordene os nomes dos países sem repetição em ordem alfabética;
 
 <h2>Resultado esperado</h2>
 
-select distinct pais from tabela_paises group by pais;
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/7ddc358d-dba7-4d21-be32-0246b44277ac)
+
