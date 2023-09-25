@@ -63,7 +63,7 @@ Quantos países diferentes existem na tabela 'tabela_paises';
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/5d5515cf-d066-4fba-9ccb-f7cbe5cf9290)
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/c36eae0b-36b7-4f12-837d-1605335a80bc)
 
 
 <h2>7ª Questão</h2>
@@ -74,7 +74,7 @@ Quantas cidades diferentes existem no brazil;
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/3fa139b0-1275-4d07-b774-5a6075cf7028)
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/1e3d0a03-2e5d-492f-b73b-3615e4952c10)
 
 
 <h2>8ª Questão</h2>
@@ -85,7 +85,7 @@ Selecione os países e quantas regiões cada país possui;
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/95ec8f55-fe39-4a21-a7bf-891376de2037)
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/99bc55e8-67ee-4a9c-90f7-ab936e1209dc)
 
 
 <h2>9ª Questão</h2>
@@ -96,7 +96,7 @@ Quantas pessoas com nome começando em 'João' existem no banco?
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/ccce799d-471b-466f-ae65-6ad9061010dc)
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/dc5281f0-9be8-43c1-b4ca-2acfa84c479a)
 
 
 <h2>10ª Questão</h2>
@@ -107,7 +107,7 @@ Quantas pessoas têm o nome John?
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/94612212-f680-41a0-95dc-c31944d1bef5)
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/8fa7245c-83d9-41d1-b2cd-0928f52ecbb3)
 
 
 <h2>11ª Questão</h2>
@@ -118,4 +118,4 @@ Ordene os nomes dos países sem repetição em ordem alfabética;
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/b772b12a-9a45-4d51-8c3b-bc56ffbba07f)
+select distinct pais from tabela_paises group by pais;
