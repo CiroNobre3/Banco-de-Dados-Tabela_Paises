@@ -19,7 +19,7 @@ Selecione todas as cidades cujo país seja brazil;
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/79ea75ed-a3c7-46a7-a5cc-f650b55c180c)
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/745a2766-2579-45c6-b65c-505329ff949e)
 
 
 <h2>3ª Questão</h2>
