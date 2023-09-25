@@ -8,7 +8,7 @@ Selecione todos os dados dos países da tabela_paises
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/d55ae3f8-c2c1-4a32-a52b-f257433cc451)
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/442a27a5-0802-456b-ac01-bba6297ebd72)
 
 
 <h2>2ª Questão</h2>
