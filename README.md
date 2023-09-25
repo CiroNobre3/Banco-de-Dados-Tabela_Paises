@@ -30,7 +30,7 @@ Selecione todas as cidades cuja região (estado) é ceará;
 
 <h2>Resultado esperado</h2>
 
-![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/208842de-bafd-4cf4-bc9a-627a6c85e8b8)
+![image](https://github.com/CiroNobre3/Banco-de-Dados-Tabela_Paises/assets/111638681/982a4751-9740-4877-9f50-24210cf4fa81)
 
 
 <h2>4ª Questão</h2>
